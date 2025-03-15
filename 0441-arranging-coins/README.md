@@ -25,3 +25,28 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
+
+<h3> Logic behind the solution - </h3>
+<p>
+	Step 1: Start with the original inequality:
+(K * (K + 1)) / 2 <= N
+
+Step 2: Multiply both sides by 2 to eliminate the fraction:
+K * (K + 1) <= 2 * N
+
+Step 3: Expand the left-hand side:
+K^2 + K <= 2 * N
+
+Step 4: Add 1/4 to both sides to complete the square:
+K^2 + K + 1/4 <= 2 * N + 1/4
+
+Step 5: Rewrite the left-hand side as a perfect square:
+(K + 1/2)^2 <= 2 * N + 1/4
+
+Step 6: Take the square root of both sides:
+K + 1/2 <= sqrt(2 * N + 1/4)
+
+Step 7: Subtract 1/2 from both sides to solve for K:
+K <= sqrt(2 * N + 1/4) - 1/2
+
+</p>
