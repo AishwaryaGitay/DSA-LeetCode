@@ -30,5 +30,28 @@ class Solution {
 
             // Both arrays must be fully traversed
 			return i == word1.length && j == word2.length; 
+
+
+
+            // OR 
+
+            /*
+            StringBuilder word1Final = new StringBuilder();
+			StringBuilder word2Final = new StringBuilder();
+			
+			for(String str : word1) {
+				word1Final.append(str);
+			}
+			
+			for(String str1 : word2) {
+				word2Final.append(str1);
+			}
+			
+			if(word1Final.compareTo(word2Final) == 0) {
+				return true;
+			}
+			
+			return false;
+             */
     }
 }
