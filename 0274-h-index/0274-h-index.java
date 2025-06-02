@@ -1,0 +1,25 @@
+class Solution {
+    public int hIndex(int[] citations) {
+        
+        int n = citations.length;
+        int[] freq = new int[n+1];
+
+        for(int i = 0 ; i < n ; i++){
+            if(citations[i] >= n){
+                freq[n]++;
+            }else{
+                freq[citations[i]]++;
+            }
+        }
+
+        int h = 0;
+        for(int j = n ; j >= 0 ; j--){
+            h = h + freq[j];
+            if(h >= j){
+                return j;
+            }
+        }
+
+        return 0;
+    }
+}
