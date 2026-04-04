@@ -39,4 +39,5 @@
 | [1084-sales-analysis-iii](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/1251-average-selling-price/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 <!---LeetCode Topics End-->
