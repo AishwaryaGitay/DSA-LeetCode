@@ -19,3 +19,11 @@
 
 </div>
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0577-employee-bonus](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/0577-employee-bonus/) | Easy |
+<!---LeetCode Topics End-->
