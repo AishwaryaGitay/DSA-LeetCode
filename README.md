@@ -33,4 +33,5 @@
 | [0610-triangle-judgement](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
 <!---LeetCode Topics End-->
