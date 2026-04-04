@@ -31,4 +31,5 @@
 | [0596-classes-with-at-least-5-students](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 <!---LeetCode Topics End-->
