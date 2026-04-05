@@ -42,4 +42,5 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/1407-top-travellers/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1587-bank-account-summary-ii](https://github.com/AishwaryaGitay/DSA-LeetCode/tree/main/1587-bank-account-summary-ii/) | Easy |
 <!---LeetCode Topics End-->
